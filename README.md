@@ -2,7 +2,7 @@
 # AIRCNC
 
 <div align="center">
-    <img src="https://github.com/Futila/tindev-aircnc/blob/master/src/assets/aircncweb.PNG" width="600px" />  
+    <img src="https://github.com/Futila/airnc-frontend/blob/master/src/assets/aircncweb.PNG" width="600px" />  
     
 </div>
 
