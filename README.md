@@ -2,7 +2,7 @@
 # AIRCNC
 
 <div align="center">
-    <img src="https://github.com/Futila/airnc-frontend/blob/master/src/assets/aircncweb.PNG" width="600px" />  
+    <img src="https://github.com/Futila/aircnc-frontend/blob/master/src/assets/aircncweb.PNG" width="600px" />  
     
 </div>
 
@@ -23,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Futila/airnc-frontend
-$ cd airnc-frontend
+$ git clone https://github.com/Futila/aircnc-frontend
+$ cd aircnc-frontend
 ```
 
 Para iniciá-lo, siga os passos abaixo:
